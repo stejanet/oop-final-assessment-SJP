@@ -1,0 +1,11 @@
+Type=Epic;ID=1;Name=Drop 1 | Project Manager Application;Status=COMPLETED;Description=Develop the Project Manager application;StartDate=2025-08-01;EndDate=2025-09-01
+Type=Phase;ID=5;ParentID=1;Name=Dev Work;Status=COMPLETED;PhaseType=DEVELOPMENT;StartDate=2025-08-04;EndDate=2025-08-14
+Type=Feature;ID=6;ParentID=5;Name=Implement Entities;Status=COMPLETED;Description=Entities creation, parsing, serialization etc.;EstimatedHours=14.0
+Type=Task;ID=7;ParentID=6;Name=Serialization & Parsing;Status=COMPLETED;Description=;DueDate=2025-08-07;EstimatedHours=8.0
+Type=Task;ID=8;ParentID=6;Name=Factories;Status=COMPLETED;Description=Abstract factory, static factory for parsing;DueDate=2025-08-08;EstimatedHours=8.0
+Type=Milestone;ID=9;ParentID=6;Name=Entities can be created in Main.java;Status=COMPLETED;DueDate=2025-08-10
+Type=Phase;ID=2;ParentID=1;Name=Initial R&D;Status=COMPLETED;PhaseType=R_AND_D;StartDate=2025-08-01;EndDate=2025-08-03
+Type=Task;ID=3;ParentID=2;Name=Design patterns & Tech;Status=COMPLETED;Description=Decide which technologies and design patterns to include;DueDate=2025-09-03;EstimatedHours=5.0
+Type=Task;ID=4;ParentID=2;Name=Design architecture;Status=COMPLETED;Description=UML diagram, design classes, file structure etc.;DueDate=2025-03-02;EstimatedHours=7.0
+Type=Epic;ID=10;Name=Drop 2 | Future Developments;Status=NOT_STARTED;Description=Ideas for future enhancements;StartDate=2026-01-01;EndDate=
+Type=Feature;ID=11;ParentID=10;Name=Allow work items edits;Status=NOT_STARTED;Description=Add editing feature;EstimatedHours=

@@ -1,0 +1,24 @@
+Type=Epic;ID=12;Name=TEST 3;Status=NOT_STARTED;Description=;StartDate=2027-02-28;EndDate=
+Type=Phase;ID=20;ParentID=12;Name=SOme phase;Status=NOT_STARTED;PhaseType=DEVELOPMENT;StartDate=;EndDate=
+Type=Epic;ID=13;Name=TEST 4;Status=NOT_STARTED;Description=;StartDate=2025-05-01;EndDate=2025-05-03
+Type=Epic;ID=11;Name=TEST 2;Status=NOT_STARTED;Description=;StartDate=;EndDate=
+Type=Epic;ID=10;Name=TEST;Status=IN_PROGRESS;Description=My test epic;StartDate=2025-06-01;EndDate=
+Type=Epic;ID=1;Name=Build Mobile App;Status=NOT_STARTED;Description=Initial build;StartDate=2025-08-25;EndDate=2025-09-30
+Type=Phase;ID=2;ParentID=1;Name=Design Phase;Status=IN_PROGRESS;PhaseType=R_AND_D;StartDate=2025-09-01;EndDate=
+Type=Phase;ID=3;ParentID=1;Name=Development Phase;Status=NOT_STARTED;PhaseType=DEVELOPMENT;StartDate=2025-09-14;EndDate=2025-09-30
+Type=Epic;ID=14;Name=TEST 5;Status=NOT_STARTED;Description=Ahahahahah;StartDate=;EndDate=
+Type=Phase;ID=15;ParentID=14;Name=Dev Phase;Status=NOT_STARTED;PhaseType=DEVELOPMENT;StartDate=2025-05-14;EndDate=
+Type=Feature;ID=16;ParentID=15;Name=My custom feature;Status=COMPLETED;Description=Hello!!!;EstimatedHours=20.5
+Type=Milestone;ID=22;ParentID=16;Name=Quick Milestone;Status=NOT_STARTED;DueDate=2025-10-01
+Type=Milestone;ID=18;ParentID=16;Name=Some task ahahah;Status=IN_PROGRESS;DueDate=
+Type=Task;ID=21;ParentID=18;Name=Quick Task;Status=NOT_STARTED;Description=This is a sample task;DueDate=2025-09-06;EstimatedHours=2.0
+Type=Feature;ID=23;ParentID=18;Name=Quick Feature;Status=NOT_STARTED;Description=This is a sample feature;EstimatedHours=7.0
+Type=Phase;ID=24;ParentID=23;Name=Quick Phase;Status=NOT_STARTED;PhaseType=DEVELOPMENT;StartDate=2025-09-03;EndDate=2025-09-17
+Type=Task;ID=19;ParentID=18;Name=This is an actual task;Status=COMPLETED;Description=;DueDate=;EstimatedHours=
+Type=Task;ID=25;ParentID=18;Name=Quick Task;Status=NOT_STARTED;Description=This is a sample task;DueDate=2025-09-06;EstimatedHours=2.0
+Type=Epic;ID=4;Name=Build Website;Status=NOT_STARTED;Description=Initial build;StartDate=2026-01-01;EndDate=2026-01-31
+Type=Phase;ID=5;ParentID=4;Name=Design Phase;Status=IN_PROGRESS;PhaseType=R_AND_D;StartDate=2025-01-01;EndDate=2026-01-05
+Type=Phase;ID=6;ParentID=5;Name=Infrastructure Design Phase;Status=IN_PROGRESS;PhaseType=R_AND_D;StartDate=2026-01-03;EndDate=2026-01-05
+Type=Milestone;ID=8;ParentID=6;Name=Some Milestone;Status=NOT_STARTED;DueDate=2026-02-15
+Type=Task;ID=9;ParentID=6;Name=Some Task;Status=NOT_STARTED;Description=This is just some random task;DueDate=2026-02-28;EstimatedHours=2.0
+Type=Feature;ID=7;ParentID=6;Name=Some Feature;Status=NOT_STARTED;Description=This is just some random feature;EstimatedHours=10.5

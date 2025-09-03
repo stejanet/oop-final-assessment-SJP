@@ -1,0 +1,156 @@
+Sept 02, 2025 8:17:18 PM app.Main main
+WARNING: An unexpected error occurred.
+java.util.NoSuchElementException: No line found
+	at java.base/java.util.Scanner.nextLine(Scanner.java:1660)
+	at app.Main.createNewWorkItem(Main.java:113)
+	at app.Main.main(Main.java:58)
+
+Sept 02, 2025 8:17:57 PM app.Main main
+WARNING: An unexpected error occurred.
+java.util.NoSuchElementException: No line found
+	at java.base/java.util.Scanner.nextLine(Scanner.java:1660)
+	at app.Main.createNewWorkItem(Main.java:113)
+	at app.Main.main(Main.java:58)
+
+Sept 02, 2025 8:24:08 PM app.Main main
+WARNING: An unexpected error occurred.
+java.util.NoSuchElementException: No line found
+	at java.base/java.util.Scanner.nextLine(Scanner.java:1660)
+	at app.Main.createNewWorkItem(Main.java:113)
+	at app.Main.main(Main.java:58)
+
+Sept 02, 2025 11:08:19 PM app.Main createQuickTask
+WARNING: Invalid parent ID input: listWorkItem
+java.lang.NumberFormatException: For input string: "listWorkItem"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Integer.parseInt(Integer.java:662)
+	at java.base/java.lang.Integer.parseInt(Integer.java:778)
+	at app.Main.createQuickTask(Main.java:312)
+	at app.Main.main(Main.java:66)
+
+Sept 02, 2025 11:08:46 PM app.Main main
+WARNING: An unexpected error occurred.
+java.util.NoSuchElementException: No line found
+	at java.base/java.util.Scanner.nextLine(Scanner.java:1660)
+	at app.Main.main(Main.java:47)
+
+Sept 02, 2025 11:16:28 PM app.Main main
+WARNING: An unexpected error occurred.
+java.util.NoSuchElementException: No line found
+	at java.base/java.util.Scanner.nextLine(Scanner.java:1660)
+	at app.Main.main(Main.java:47)
+
+Sept 02, 2025 11:42:47 PM app.Main deleteWorkItem
+INFO: Work item ID 46 deleted: Quick Task
+Sept 02, 2025 11:43:16 PM app.Main deleteWorkItem
+INFO: Work item ID 17 deleted: Some other custom feature
+Sept 02, 2025 11:43:34 PM app.Main deleteWorkItem
+INFO: Work item ID 42 deleted: Quick Epic
+Sept 02, 2025 11:43:45 PM app.Main main
+WARNING: An unexpected error occurred.
+java.util.NoSuchElementException: No line found
+	at java.base/java.util.Scanner.nextLine(Scanner.java:1660)
+	at app.Main.deleteWorkItem(Main.java:324)
+	at app.Main.main(Main.java:60)
+
+Sept 03, 2025 12:03:46 AM app.Main main
+WARNING: An unexpected error occurred.
+java.util.NoSuchElementException: No line found
+	at java.base/java.util.Scanner.nextLine(Scanner.java:1660)
+	at app.Main.main(Main.java:52)
+
+Sept 03, 2025 12:07:08 AM app.Main main
+WARNING: An unexpected error occurred.
+java.util.NoSuchElementException: No line found
+	at java.base/java.util.Scanner.nextLine(Scanner.java:1660)
+	at app.Main.deleteWorkItem(Main.java:334)
+	at app.Main.main(Main.java:65)
+
+Sept 03, 2025 12:21:03 AM app.Main main
+WARNING: An unexpected error occurred.
+java.util.NoSuchElementException: No line found
+	at java.base/java.util.Scanner.nextLine(Scanner.java:1660)
+	at app.Main.main(Main.java:57)
+
+Sept 03, 2025 12:23:18 AM app.Main main
+WARNING: An unexpected error occurred.
+java.util.NoSuchElementException: No line found
+	at java.base/java.util.Scanner.nextLine(Scanner.java:1660)
+	at app.Main.main(Main.java:57)
+
+Sept 03, 2025 12:23:48 AM app.Main main
+WARNING: An unexpected error occurred.
+java.util.NoSuchElementException: No line found
+	at java.base/java.util.Scanner.nextLine(Scanner.java:1660)
+	at app.Main.main(Main.java:57)
+
+Sept 03, 2025 12:24:23 AM app.Main main
+WARNING: An unexpected error occurred.
+java.util.NoSuchElementException: No line found
+	at java.base/java.util.Scanner.nextLine(Scanner.java:1660)
+	at app.Main.main(Main.java:57)
+
+Sept 03, 2025 1:37:57 AM app.Main main
+WARNING: An unexpected error occurred.
+java.util.NoSuchElementException: No line found
+	at java.base/java.util.Scanner.nextLine(Scanner.java:1660)
+	at app.Main.main(Main.java:61)
+
+Sept 03, 2025 1:39:40 AM app.Main main
+WARNING: An unexpected error occurred.
+java.util.NoSuchElementException: No line found
+	at java.base/java.util.Scanner.nextLine(Scanner.java:1660)
+	at app.Main.main(Main.java:61)
+
+Sept 03, 2025 1:56:30 AM app.Main promptForString
+WARNING: Error occurred while reading String input.
+java.util.NoSuchElementException: No line found
+	at java.base/java.util.Scanner.nextLine(Scanner.java:1660)
+	at app.Main.promptForString(Main.java:587)
+	at app.Main.createNewWorkItem(Main.java:218)
+	at app.Main.main(Main.java:77)
+
+Sept 03, 2025 1:57:55 AM app.Main main
+WARNING: An unexpected error occurred.
+java.util.NoSuchElementException: No line found
+	at java.base/java.util.Scanner.nextLine(Scanner.java:1660)
+	at app.Main.createQuickTask(Main.java:557)
+	at app.Main.main(Main.java:101)
+
+Sept 03, 2025 3:33:01 AM app.Main main
+WARNING: An unexpected error occurred.
+java.util.NoSuchElementException: No line found
+	at java.base/java.util.Scanner.nextLine(Scanner.java:1660)
+	at app.Main.createNewWorkItem(Main.java:149)
+	at app.Main.main(Main.java:77)
+
+Sept 03, 2025 3:34:02 AM app.Main main
+WARNING: An unexpected error occurred.
+java.util.NoSuchElementException: No line found
+	at java.base/java.util.Scanner.nextLine(Scanner.java:1660)
+	at app.Main.main(Main.java:66)
+
+Sept 03, 2025 3:38:28 AM app.Main main
+WARNING: An unexpected error occurred.
+java.util.NoSuchElementException: No line found
+	at java.base/java.util.Scanner.nextLine(Scanner.java:1660)
+	at app.Main.main(Main.java:66)
+
+Sept 03, 2025 3:44:55 AM app.Main main
+WARNING: An unexpected error occurred.
+java.util.NoSuchElementException: No line found
+	at java.base/java.util.Scanner.nextLine(Scanner.java:1660)
+	at app.Main.main(Main.java:66)
+
+Sept 03, 2025 3:48:37 AM app.Main main
+WARNING: An unexpected error occurred.
+java.util.NoSuchElementException: No line found
+	at java.base/java.util.Scanner.nextLine(Scanner.java:1660)
+	at app.Main.main(Main.java:66)
+
+Sept 03, 2025 3:54:11 AM app.Main main
+WARNING: An unexpected error occurred.
+java.util.NoSuchElementException: No line found
+	at java.base/java.util.Scanner.nextLine(Scanner.java:1660)
+	at app.Main.main(Main.java:66)
+

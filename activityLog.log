@@ -1,0 +1,34 @@
+2025-09-03T00:00:36.183180 Added: Task ID=21 Name=Quick Task
+2025-09-03T00:00:53.342304100 Added: Milestone ID=22 Name=Quick Milestone
+2025-09-03T00:00:57.681019100 Added: Feature ID=23 Name=Quick Feature
+2025-09-03T00:01:10.027067800 Added: Phase ID=24 Name=Quick Phase
+2025-09-03T00:01:11.875237800 Added: Epic ID=25 Name=Quick Epic
+2025-09-03T00:01:28.385075800 Added: Epic ID=26 Name=AAA
+2025-09-03T00:01:46.559248900 Added: Phase ID=27 Name=BBB
+2025-09-03T00:02:07.213408600 Added: Feature ID=28 Name=CCC
+2025-09-03T00:02:24.387399800 Added: Milestone ID=29 Name=DDD
+2025-09-03T00:02:36.160752300 Added: Task ID=30 Name=EEE
+2025-09-03T00:03:06.309600700 Deleted: Epic ID=26 Name=AAA
+2025-09-03T00:07:15.046471600 Added: Epic ID=26 Name=Quick Epic
+2025-09-03T00:07:21.970492200 Added: Phase ID=27 Name=Quick Phase
+2025-09-03T00:07:28.714416700 Added: Feature ID=28 Name=Quick Feature
+2025-09-03T00:07:35.475140400 Added: Milestone ID=29 Name=Quick Milestone
+2025-09-03T00:07:38.731773100 Added: Task ID=30 Name=Quick Task
+2025-09-03T00:07:50.539439200 Deleted: Phase ID=27 Name=Quick Phase
+2025-09-03T00:07:50.539439200 Deleted: Task ID=30 Name=Quick Task
+2025-09-03T00:07:50.540442500 Deleted: Milestone ID=29 Name=Quick Milestone
+2025-09-03T00:07:50.540442500 Deleted: Feature ID=28 Name=Quick Feature
+2025-09-03T00:07:50.540442500 Deleted: Epic ID=26 Name=Quick Epic
+2025-09-03T00:08:19.765105800 Deleted: Epic ID=25 Name=Quick Epic
+2025-09-03T01:57:45.189989700 Added: Task ID=25 Name=Quick Task
+2025-09-03T03:33:13.454053600 Added: Epic ID=1 Name=Quick Epic
+2025-09-03T03:37:09.043555600 Added: Phase ID=2 Name=Initial R&D
+2025-09-03T03:38:07.616512100 Added: Task ID=3 Name=Decide which technologies and design patterns to include
+2025-09-03T03:39:30.189567800 Added: Task ID=4 Name=Design architecture
+2025-09-03T03:40:38.179212100 Added: Phase ID=5 Name=Dev Work
+2025-09-03T03:41:30.931010600 Added: Feature ID=6 Name=Implement Entities
+2025-09-03T03:42:13.138337600 Added: Task ID=7 Name=Serialization & Parsing
+2025-09-03T03:43:10.885511900 Added: Task ID=8 Name=Factories
+2025-09-03T03:47:00.606736800 Added: Milestone ID=9 Name=Entities can be created in Main.java
+2025-09-03T03:47:51.096954600 Added: Epic ID=10 Name=Drop 2 | Future Developments
+2025-09-03T03:48:24.778970500 Added: Feature ID=11 Name=Allow work items edits
